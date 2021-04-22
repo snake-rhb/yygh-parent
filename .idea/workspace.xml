@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92540d8-11f8-44fb-91aa-6f571710c898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -144,7 +144,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28422275" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -260,8 +260,23 @@
       <option name="presentableId" value="Default" />
       <updated>1619008511460</updated>
       <workItem from="1619008514651" duration="4061000" />
-      <workItem from="1619059628415" duration="9114000" />
+      <workItem from="1619059628415" duration="13851000" />
     </task>
+    <task id="LOCAL-00001" summary="医院挂号系统框架">
+      <created>1619075288461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619075288461</updated>
+    </task>
+    <task id="LOCAL-00002" summary="医院挂号系统框架">
+      <created>1619075353727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619075353727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -297,7 +312,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13175000" />
+    <option name="totallyTimeSpent" value="17912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -310,10 +325,10 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Java Enterprise" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26345608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26203966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,7 +341,7 @@
       <window_info anchor="bottom" id="Run with VisualVM" order="12" />
       <window_info anchor="bottom" id="JProfiler" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -342,6 +357,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="医院挂号系统框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="医院挂号系统框架" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mybatis-plus-study/src/main/resources/application.yml">
