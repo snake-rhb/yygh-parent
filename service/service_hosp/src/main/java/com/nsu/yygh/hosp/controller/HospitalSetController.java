@@ -57,6 +57,7 @@ public class HospitalSetController {
      * @param hospitalSetQueryVo 条件查询的类：医院的名称和id
      * @return
      */
+    @ApiOperation("分页条件查询")
     @PostMapping("/findConditionPage/{currentPage}/{size}")
     public Result findConditionPage(@PathVariable("currentPage") Long currentPage,
                                     @PathVariable("size") Integer size,
@@ -87,8 +88,9 @@ public class HospitalSetController {
      * @param hospitalSet
      * @return
      */
-    @PostMapping("/putHospital")
-    public Result putHospital(@RequestBody HospitalSet hospitalSet) {
+    @ApiOperation("添加医院")
+    @PostMapping("/addHospital")
+    public Result addHospital(@RequestBody HospitalSet hospitalSet) {
         // 设置医院的状态: 1使用，0不能使用
         hospitalSet.setStatus(1);
         // 设置医院的密钥
@@ -100,5 +102,81 @@ public class HospitalSetController {
         // 添加一个医院
         boolean save = hospitalSetService.save(hospitalSet);
         return Result.flag(save);
+    }
+
+    /**
+     * 根据id查询一个医院
+     * @param id
+     * @return
+     */
+    @ApiOperation("根据id查询医院")
+    @GetMapping("/findHospitalById/{id}")
+    public Result<HospitalSet> getHospitalSetById(@PathVariable("id") Long id) {
+        HospitalSet hospitalSet = hospitalSetService.getById(id);
+        return Result.ok(hospitalSet);
+    }
+
+    /**
+     * 修改一个医院
+     * @param hospitalSet
+     * @return
+     */
+    @ApiOperation("修改一个医院")
+    @PutMapping("/updateHospital")
+    public Result updateHospital(@RequestBody HospitalSet hospitalSet) {
+        // 修改，会先根据id进行查询
+        boolean b = hospitalSetService.updateById(hospitalSet);
+        return Result.flag(b);
+    }
+
+    /**
+     * 批量删除医院
+     * @param idList
+     * @return
+     */
+    @ApiOperation("批量删除医院")
+    @DeleteMapping("/batchDelete")
+    public Result batchDelete(@RequestBody List<Long> idList) {
+        boolean b = hospitalSetService.removeByIds(idList);
+        return Result.flag(b);
+    }
+
+    /**
+     * 修改医院的状态信息：解锁和锁定状态
+     * @param id
+     * @param status
+     * @return
+     */
+    @ApiOperation("设置医院的状态：1是解锁，0是锁定")
+    @GetMapping("/lockHospital/{id}/{status}")
+    public Result lockHospital(@PathVariable("id") Long id,
+                               @PathVariable("status") Integer status) {
+        // 先根据id查出医院信息
+        HospitalSet hospitalSet = hospitalSetService.getById(id);
+        // 设置状态信息：1是解锁，0是锁定
+        hospitalSet.setStatus(status);
+        // 对状态进行修改
+        boolean b = hospitalSetService.updateById(hospitalSet);
+        return Result.flag(b);
+    }
+
+    /**
+     * 给医院接口发送短信签名密钥
+     * @param id
+     * @return
+     */
+    @ApiOperation("给医院接口发送短信签名密钥")
+    @PutMapping("/sendKey/{id}")
+    public Result sendKey(@PathVariable("id") Long id) {
+        // 查询到医院
+        HospitalSet hospitalSet = hospitalSetService.getById(id);
+        // 取出密钥和编号名称
+        String signKey = hospitalSet.getSignKey();
+        String hoscode = hospitalSet.getHoscode();
+        String hosname = hospitalSet.getHosname();
+
+        // 发送短信
+
+        return Result.ok();
     }
 }
