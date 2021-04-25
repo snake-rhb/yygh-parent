@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common_util" />
         <module name="service_util" />
         <module name="model" />
         <module name="mybatis-plus-study" />
         <module name="service_user" />
+        <module name="common_util" />
         <module name="service_hosp" />
       </profile>
     </annotationProcessing>
