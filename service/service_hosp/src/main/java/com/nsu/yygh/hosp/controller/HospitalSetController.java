@@ -23,6 +23,8 @@ import java.util.Random;
 @Api(tags = "医院管理控制")
 @RestController
 @RequestMapping("/admin/hosp/hospitalSet")
+// 允许跨域
+@CrossOrigin
 public class HospitalSetController {
     @Autowired
     private HospitalSetService hospitalSetService;
@@ -82,6 +84,31 @@ public class HospitalSetController {
         // 进行分页条件查询
         Page<HospitalSet> pageHospitalSet = hospitalSetService.page(page, wrapper);
         return Result.ok(pageHospitalSet);
+    }
+
+    /**
+     * 根据关键字进行分页查询
+     * @param currentPage
+     * @param size
+     * @param keyword
+     * @return
+     */
+    @ApiOperation("根据关键字进行分页查询")
+    @GetMapping("/findConditionPage/{currentPage}/{size}/{keyword}")
+    public Result findConditionPageByKeyword(@PathVariable("currentPage") Integer currentPage,
+                                             @PathVariable("size") Integer size,
+                                             @PathVariable(value = "keyword", required = false) String keyword) {
+        // 构建一个分页对象
+        Page<HospitalSet> page = new Page<>(currentPage, size);
+        // 构建一个查询对象
+        QueryWrapper<HospitalSet> wrapper = new QueryWrapper<>();
+        wrapper.like("hosname", keyword);
+        wrapper.like("hoscode", keyword);
+
+        // 进行查询分页
+        Page<HospitalSet> hospitalSetPage = hospitalSetService.page(page, wrapper);
+
+        return Result.ok(hospitalSetPage);
     }
 
     /**
@@ -149,7 +176,7 @@ public class HospitalSetController {
      * @return
      */
     @ApiOperation("设置医院的状态：1是解锁，0是锁定")
-    @GetMapping("/lockHospital/{id}/{status}")
+    @PutMapping("/lockHospital/{id}/{status}")
     public Result lockHospital(@PathVariable("id") Long id,
                                @PathVariable("status") Integer status) {
         // 先根据id查出医院信息
