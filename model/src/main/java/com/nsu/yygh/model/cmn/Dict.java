@@ -25,6 +25,8 @@ public class Dict {
     private static final long serialVersionUID = 1L;
 
     @ApiModelProperty(value = "id")
+    // 设置id为自己插入，不然无法插入
+    @TableId(value = "id", type = IdType.INPUT)
     private Long id;
 
     @ApiModelProperty(value = "创建时间")
@@ -65,4 +67,14 @@ public class Dict {
     @TableField("has_children")
     private Integer hasChildren;
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Dict dict = (Dict) o;
+
+        return id != null ? id.equals(dict.id) : dict.id == null;
+
+    }
 }

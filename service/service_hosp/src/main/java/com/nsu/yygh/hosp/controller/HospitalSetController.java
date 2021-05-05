@@ -207,4 +207,9 @@ public class HospitalSetController {
 
         return Result.ok();
     }
+
+    @GetMapping("/test")
+    public String test() {
+        return "test";
+    }
 }

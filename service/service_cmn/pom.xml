@@ -11,5 +11,16 @@
 
     <artifactId>service_cmn</artifactId>
 
+    <dependencies>
+        <!-- 导入easyExcel，对数据进行进行excel读取操作 -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>easyexcel</artifactId>
+        </dependency>
 
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+    </dependencies>
 </project>
