@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f92540d8-11f8-44fb-91aa-6f571710c898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model/src/test/java/DictTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/target/test-classes/DictTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/listener/ExcelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/yygh/cmn/insert/InsertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/listener/ExcelListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/META-INF/service_cmn.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/com/nsu/easyexcel/ExcelListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/com/nsu/easyexcel/ExcelRead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/com/nsu/easyexcel/ExcelWrite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/com/nsu/easyexcel/UserData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_cmn/target/test-classes/com/nsu/yygh/cmn/insert/InsertTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/cmn/Dict.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/cmn/Dict.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/classes/com/nsu/yygh/model/cmn/Dict.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/nsu/yygh/model/cmn/Dict.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/controller/DictController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/controller/DictController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/DictService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/DictService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/impl/DictServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/impl/DictServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/controller/DictController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/controller/DictController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/service/DictService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/service/DictService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/service/impl/DictServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cmn/target/classes/com/nsu/yygh/cmn/service/impl/DictServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/HospitalSetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/HospitalSetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalSetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalSetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_hosp/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/ServiceHospApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/config/MybatisPlusConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/controller/HospitalSetController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/mapper/HospitalSetMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/service/HospitalSetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_hosp/target/classes/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,6 +32,8 @@
     <ignored path="$PROJECT_DIR$/service/service_user/target/" />
     <ignored path="$PROJECT_DIR$/service/service_hosp/target/" />
     <ignored path="$PROJECT_DIR$/service/service_cmn/target/" />
+    <ignored path="$PROJECT_DIR$/mongdb-test/target/" />
+    <ignored path="$PROJECT_DIR$/hospital-manage/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,96 +46,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/controller/DictController.java">
+        <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/HospitalSetController.java">
+        <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="144" column="5" lean-forward="true" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#6468#6469#0" expanded="true" />
-                <element signature="e#6492#6493#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/DictService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/impl/DictServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2160">
-              <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/yygh/cmn/redis/RedisTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/listener/ExcelListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/yygh/cmn/insert/InsertTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/cmn/Dict.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -162,6 +76,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>contains</find>
+      <find>RunDash</find>
+      <find>element</find>
+      <find>save</find>
+      <find>paramMap.put(&quot;sign&quot;,MD5.encrypt(this.getSignKey()));</find>
+      <find>find</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,38 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mybatis-plus-study/src/test/java/com/nsu/MybatisPlusTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/common/common_util/pom.xml" />
-        <option value="$PROJECT_DIR$/common/service_util/pom.xml" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/model/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mybatis-plus-study/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/com/atguigu/yygh/vo/acl/AssignVo.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/enums/DictEnum.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/vo/acl/AssignVo.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/mapper/HospitalSetMapper.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/mapper/HospitalSetMapper.xml" />
-        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/config/MySwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java" />
-        <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/result/Result.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/config/MybatisplusConfig.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/config/MybatisPlusConfig.java" />
-        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/utils/MD5.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalSetService.java" />
-        <option value="$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/exception/MyException.java" />
-        <option value="$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/exception/GlobalExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/logbak-spring.xml" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/CmnServiceApplication.java" />
-        <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/config/CmnConfig.java" />
-        <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/mapper/CmnMapper.java" />
         <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/mapper/impl/DictMapperImpl.java" />
         <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/mapper/DictMapper.java" />
         <option value="$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelWrite.java" />
@@ -222,6 +109,38 @@
         <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/controller/DictController.java" />
         <option value="$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/impl/DictServiceImpl.java" />
         <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/HospitalSetController.java" />
+        <option value="$PROJECT_DIR$/mongdb-test/src/main/java/com/nsu/mongodb/MongodbMain9090.java" />
+        <option value="$PROJECT_DIR$/mongdb-test/pom.xml" />
+        <option value="$PROJECT_DIR$/mongdb-test/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mongdb-test/src/main/java/com/nsu/mongodb/entity/User.java" />
+        <option value="$PROJECT_DIR$/mongdb-test/src/test/java/com/nsu/mongodb/MongodbTest.java" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/hospital-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/ManageApplication.java" />
+        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/helper/HttpRequestHelper.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/HospitalRepository.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalSetService.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/utils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/ApiController.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalService.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/DepartmentService.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/DepartmentRepository.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/resources/templates/common/meta.html" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/ScheduleService.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/api/ApiController.java" />
+        <option value="$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/service/impl/ApiServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/ScheduleRepository.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/ScheduleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java" />
       </list>
     </option>
   </component>
@@ -248,12 +167,12 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="common_util" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hospital-manage" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="common_util" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="hospital-manage" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -271,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -378,130 +296,53 @@
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="service_util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
               <item name="yygh" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="service_util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
               <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -509,8 +350,7 @@
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -519,8 +359,7 @@
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -530,118 +369,67 @@
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -649,221 +437,200 @@
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="cmn" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="hosp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nsu" type="462c0819:PsiDirectoryNode" />
-              <item name="yygh" type="462c0819:PsiDirectoryNode" />
-              <item name="hosp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="department" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="hospitalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="hosp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mongdb-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mongdb-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mongdb-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mongdb-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -872,13 +639,67 @@
               <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yygh-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yygh-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_hosp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nsu" type="462c0819:PsiDirectoryNode" />
+              <item name="yygh" type="462c0819:PsiDirectoryNode" />
+              <item name="hosp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -889,7 +710,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_cmn/src/main/resources" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -905,21 +727,26 @@
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IdeaProject\yygh-parent\service\service_hosp\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.nsu.yygh.cmn" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProject\yygh-parent\common\service_util\src\main\java\com\nsu\yygh\common" />
+      <recent name="F:\IdeaProject\yygh-parent\hospital-manage\src\main\resources" />
+      <recent name="F:\IdeaProject\yygh-parent\hospital-manage\src\main\java" />
       <recent name="F:\IdeaProject\yygh-parent\service\service_cmn\src\main\resources" />
       <recent name="F:\IdeaProject\yygh-parent\service\service_hosp\src\main\resources\mapper" />
-      <recent name="F:\IdeaProject\yygh-parent\common\service_util\src\main\java\com\nsu\yygh\common\utils" />
-      <recent name="F:\IdeaProject\yygh-parent\common\common_util\src\main\java\com\nsu\yygh\common\result" />
-      <recent name="F:\IdeaProject\yygh-parent\model\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProject\yygh-parent\service\service_hosp\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -931,68 +758,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceHospApplication">
-    <configuration name="DictTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DictTest" />
-      <module name="model" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nsu.easyexcel.ExcelRead" />
-      <module name="service_cmn" />
+  <component name="RunManager" selected="Spring Boot.ManageApplication">
+    <configuration name="MongodbTest.findPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongdb-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nsu.easyexcel.*" />
+          <option name="PATTERN" value="com.nsu.mongodb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertTest.addOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="service_cmn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nsu.yygh.cmn.insert.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nsu.yygh.cmn.insert" />
-      <option name="MAIN_CLASS_NAME" value="com.nsu.yygh.cmn.insert.InsertTest" />
-      <option name="METHOD_NAME" value="addOne" />
+      <option name="PACKAGE_NAME" value="com.nsu.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.nsu.mongodb.MongodbTest" />
+      <option name="METHOD_NAME" value="findPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedisTest.redisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="service_cmn" />
+    <configuration name="MongodbTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongdb-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nsu.yygh.cmn.redis.*" />
+          <option name="PATTERN" value="com.nsu.mongodb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nsu.yygh.cmn.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.nsu.yygh.cmn.redis.RedisTest" />
-      <option name="METHOD_NAME" value="redisTest" />
+      <option name="PACKAGE_NAME" value="com.nsu.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.nsu.mongodb.MongodbTest" />
+      <option name="METHOD_NAME" value="select" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CmnServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="service_cmn" />
+    <configuration name="MongodbTest.selectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongdb-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nsu.yygh.cmn.*" />
+          <option name="PATTERN" value="com.nsu.mongodb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.nsu.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.nsu.mongodb.MongodbTest" />
+      <option name="METHOD_NAME" value="selectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongodbTest.selectLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongdb-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nsu.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nsu.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.nsu.mongodb.MongodbTest" />
+      <option name="METHOD_NAME" value="selectLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongodbTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongdb-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nsu.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nsu.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.nsu.mongodb.MongodbTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmnServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cmn" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nsu.yygh.cmn.CmnServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nsu.hospital.ManageApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1006,11 +862,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.CmnServiceApplication" />
-        <item itemvalue="JUnit.RedisTest.redisTest" />
-        <item itemvalue="JUnit.InsertTest.addOne" />
-        <item itemvalue="Application.DictTest" />
-        <item itemvalue="Application.ExcelRead" />
+        <item itemvalue="JUnit.MongodbTest.update" />
+        <item itemvalue="JUnit.MongodbTest.findPage" />
+        <item itemvalue="JUnit.MongodbTest.selectLike" />
+        <item itemvalue="JUnit.MongodbTest.selectById" />
+        <item itemvalue="JUnit.MongodbTest.select" />
       </list>
     </recent_temporary>
   </component>
@@ -1032,6 +888,13 @@
       <workItem from="1619490102115" duration="19301000" />
       <workItem from="1619613064146" duration="4251000" />
       <workItem from="1619664530406" duration="5803000" />
+      <workItem from="1620188889950" duration="14283000" />
+      <workItem from="1620269882236" duration="3036000" />
+      <workItem from="1620273032415" duration="3359000" />
+      <workItem from="1620393155211" duration="3782000" />
+      <workItem from="1620635369000" duration="11038000" />
+      <workItem from="1620703624311" duration="2753000" />
+      <workItem from="1620822321162" duration="1056000" />
     </task>
     <task id="LOCAL-00001" summary="医院挂号系统框架">
       <created>1619075288461</created>
@@ -1096,48 +959,55 @@
       <option name="project" value="LOCAL" />
       <updated>1619444314403</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="将数据字典缓存到redis中">
+      <created>1620189001394</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620189001394</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MybatisPlusTest_pageTest - 2021.04.22 at 11h 26m 53s.xml">
-      <configuration name="MybatisPlusTest.pageTest" configurationId="JUnit" />
+    <history-entry file="MongodbTest_selectLike - 2021.05.05 at 13h 22m 10s.xml">
+      <configuration name="MongodbTest.selectLike" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MybatisPlusTest_selectWherePage - 2021.04.22 at 11h 35m 26s.xml">
-      <configuration name="MybatisPlusTest.selectWherePage" configurationId="JUnit" />
+    <history-entry file="MongodbTest_selectLike - 2021.05.05 at 13h 23m 06s.xml">
+      <configuration name="MongodbTest.selectLike" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MybatisPlusTest_fzSelectTest - 2021.04.22 at 11h 49m 09s.xml">
-      <configuration name="MybatisPlusTest.fzSelectTest" configurationId="JUnit" />
+    <history-entry file="MongodbTest_selectLike - 2021.05.05 at 13h 26m 16s.xml">
+      <configuration name="MongodbTest.selectLike" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MybatisPlusTest_fzSelectTest - 2021.04.22 at 11h 50m 37s.xml">
-      <configuration name="MybatisPlusTest.fzSelectTest" configurationId="JUnit" />
+    <history-entry file="MongodbTest_findPage - 2021.05.05 at 13h 35m 34s.xml">
+      <configuration name="MongodbTest.findPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertTest_addOne - 2021.04.27 at 18h 16m 50s.xml">
-      <configuration name="InsertTest.addOne" configurationId="JUnit" />
+    <history-entry file="MongodbTest_findPage - 2021.05.05 at 13h 37m 01s.xml">
+      <configuration name="MongodbTest.findPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertTest_addOne - 2021.04.27 at 18h 18m 03s.xml">
-      <configuration name="InsertTest.addOne" configurationId="JUnit" />
+    <history-entry file="MongodbTest_update - 2021.05.05 at 13h 47m 51s.xml">
+      <configuration name="MongodbTest.update" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertTest_addOne - 2021.04.27 at 18h 21m 38s.xml">
-      <configuration name="InsertTest.addOne" configurationId="JUnit" />
+    <history-entry file="MongodbTest_update - 2021.05.05 at 13h 49m 59s.xml">
+      <configuration name="MongodbTest.update" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InsertTest_addOne - 2021.04.27 at 18h 23m 28s.xml">
-      <configuration name="InsertTest.addOne" configurationId="JUnit" />
+    <history-entry file="MongodbTest_update - 2021.05.05 at 13h 50m 42s.xml">
+      <configuration name="MongodbTest.update" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redisTest - 2021.04.28 at 20h 50m 28s.xml">
-      <configuration name="RedisTest.redisTest" configurationId="JUnit" />
+    <history-entry file="MongodbTest_update - 2021.05.05 at 13h 53m 27s.xml">
+      <configuration name="MongodbTest.update" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redisTest - 2021.04.28 at 20h 54m 20s.xml">
-      <configuration name="RedisTest.redisTest" configurationId="JUnit" />
+    <history-entry file="MongodbTest_update - 2021.05.05 at 13h 54m 19s.xml">
+      <configuration name="MongodbTest.update" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79173000" />
+    <option name="totallyTimeSpent" value="118480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2935657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1152,7 +1022,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -1163,6 +1033,7 @@
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
       <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="18" visible="true" weight="0.3753541" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1186,422 +1057,424 @@
     <MESSAGE value="添加医院的批量删除，设置状态等" />
     <MESSAGE value="添加统一异常处理" />
     <MESSAGE value="医院接口开发完成，数据字典的开发" />
-    <option name="LAST_COMMIT_MESSAGE" value="医院接口开发完成，数据字典的开发" />
+    <MESSAGE value="将数据字典缓存到redis中" />
+    <option name="LAST_COMMIT_MESSAGE" value="将数据字典缓存到redis中" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalServiceImpl.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/ScheduleServiceImpl.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/resources/logback-spring.xml">
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/mapper/HospitalSetMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="150">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/exception/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/result/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
-          <folding>
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/common_util/src/main/java/com/nsu/yygh/common/result/ResultCodeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/mapper/impl/DictMapperImpl.java" />
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/config/CmnConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/config/MySwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/UserData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/easyexcel/ExcelRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java1/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java1/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="322" column="22" lean-forward="true" selection-start-line="322" selection-start-column="22" selection-end-line="322" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.jar!/com/alibaba/excel/analysis/v07/handlers/RowTagHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.jar!/com/alibaba/excel/analysis/v07/handlers/sax/XlsxRowHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.jar!/com/alibaba/excel/analysis/ExcelAnalyserImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="120" column="51" lean-forward="true" selection-start-line="120" selection-start-column="51" selection-end-line="120" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.jar!/com/alibaba/excel/analysis/v07/XlsxSaxAnalyser.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/baomidou/mybatis-plus-core/3.3.1/mybatis-plus-core-3.3.1.jar!/com/baomidou/mybatisplus/core/mapper/Mapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/baomidou/mybatis-plus-extension/3.3.1/mybatis-plus-extension-3.3.1.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/baomidou/mybatis-plus-core/3.3.1/mybatis-plus-core-3.3.1.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/vo/cmn/DictEeVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/test/java/DictTest.java">
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/baomidou/mybatis-plus-extension/3.3.1/mybatis-plus-extension-3.3.1.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding>
-            <element signature="e#1395#1396#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/baomidou/mybatis-plus-core/3.3.1/mybatis-plus-core-3.3.1.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.27/tomcat-embed-websocket-9.0.27.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.27/tomcat-embed-core-9.0.27.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="438" selection-start-line="438" selection-end-line="438" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="430" selection-start-line="430" selection-end-line="430" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="561" selection-start-line="561" selection-end-line="561" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-aop/5.2.1.RELEASE/spring-aop-5.2.1.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="455" column="22" selection-start-line="455" selection-start-column="22" selection-end-line="455" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-plus-study/src/test/java/com/nsu/MybatisPlusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/CmnServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/mapper/DictMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.jar!/com/alibaba/excel/read/processor/DefaultAnalysisEventProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/service_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="218">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalSetServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/controller/DictController.java">
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalSetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/util/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/DictService.java">
+    <entry file="jar://D:/java1/jdk1.8/src.zip!/java/net/HttpURLConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2250">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/service/impl/DictServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/yygh/cmn/redis/RedisTest.java">
+    <entry file="file://$PROJECT_DIR$/common/service_util/src/main/java/com/nsu/yygh/common/utils/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="1090" column="13" lean-forward="true" selection-start-line="1090" selection-start-column="13" selection-end-line="1090" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/model/HospitalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/hospitalSet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/HospitalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/frame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="56" column="82" selection-start-line="56" selection-start-column="82" selection-end-line="56" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/util/HttpRequestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/HospitalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/hospital/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1/jdk1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/hosp/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/base/BaseMongoEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/data/spring-data-mongodb/2.2.1.RELEASE/spring-data-mongodb-2.2.1.RELEASE.jar!/org/springframework/data/mongodb/repository/MongoRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/main/java/com/nsu/yygh/cmn/listener/ExcelListener.java">
+    <entry file="jar://D:/java1/jdk1.8/src.zip!/java/awt/print/Pageable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        <state relative-caret-position="-942">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/data/spring-data-commons/2.2.1.RELEASE/spring-data-commons-2.2.1.RELEASE.jar!/org/springframework/data/util/Streamable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1732">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/data/spring-data-commons/2.2.1.RELEASE/spring-data-commons-2.2.1.RELEASE.jar!/org/springframework/data/domain/Slice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/data/spring-data-commons/2.2.1.RELEASE/spring-data-commons-2.2.1.RELEASE.jar!/org/springframework/data/domain/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/HospitalRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_cmn/src/test/java/com/nsu/yygh/cmn/insert/InsertTest.java">
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/DepartmentRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="236">
+          <caret line="9" column="80" lean-forward="true" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/cmn/Dict.java">
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/hosp/Hospital.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/HospitalSetController.java">
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/common/pagination.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="144" column="5" lean-forward="true" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+        <state relative-caret-position="-60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/static/css/demo/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/static/css/demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret column="14519" selection-start-column="14512" selection-end-column="14519" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/common/meta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/resources/templates/department/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/service/ApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/com/alibaba/fastjson/1.2.29/fastjson-1.2.29.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+          <folding>
+            <element signature="e#1960#1961#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/mapper/ScheduleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/ScheduleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/nsu/yygh/model/hosp/Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/repository/ScheduleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6468#6469#0" expanded="true" />
-            <element signature="e#6492#6493#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/program/apache-maven-3.5.4/repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/DepartmentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/controller/ApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="136" column="50" selection-start-line="136" selection-start-column="50" selection-end-line="136" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospital-manage/src/main/java/com/nsu/hospital/service/impl/ApiServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7080">
+          <caret line="264" selection-start-line="264" selection-end-line="264" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/controller/api/ApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/ScheduleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/service/impl/HospitalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/nsu/yygh/hosp/ServiceHospApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1655,7 +1528,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>service_cmn</last-edited>
+          <last-edited>service_hosp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

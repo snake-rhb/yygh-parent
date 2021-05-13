@@ -11,4 +11,12 @@
 
     <artifactId>service_hosp</artifactId>
     <packaging>jar</packaging>
+
+    <dependencies>
+        <!-- 加入mongodb依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-mongodb</artifactId>
+        </dependency>
+    </dependencies>
 </project>

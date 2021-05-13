@@ -7,13 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common_util" />
         <module name="service_util" />
         <module name="model" />
-        <module name="mybatis-plus-study" />
-        <module name="service_cmn" />
-        <module name="service_user" />
         <module name="service_hosp" />
+        <module name="hospital-manage" />
+        <module name="mybatis-plus-study" />
+        <module name="service_user" />
+        <module name="mongdb-test" />
+        <module name="common_util" />
+        <module name="service_cmn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="common" options="-parameters" />
       <module name="common_util" options="-parameters" />
+      <module name="hospital-manage" options="-parameters" />
       <module name="model" options="-parameters" />
       <module name="mybatis-plus-study" options="-parameters" />
       <module name="service" options="" />
