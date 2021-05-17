@@ -12,6 +12,8 @@
         <module>model</module>
         <module>service</module>
         <module>hospital-manage</module>
+        <module>service_client</module>
+        <module>service_gateway</module>
     </modules>
 
     <!-- 加入SpringBoot的父依赖 -->

@@ -17,7 +17,6 @@ import java.util.List;
 @Api("数据字典接口")
 @RestController
 @RequestMapping("/admin/cmn/dict")
-@CrossOrigin
 public class DictController {
     @Autowired
     private DictService dictService;
@@ -53,5 +52,40 @@ public class DictController {
     public Result addDictData(MultipartFile file) {
         dictService.addDictData(file);
         return Result.ok();
+    }
+
+    /**
+     * 根据医院的类型hospCode和值value查询医院等级接口
+     * @param hospCode 医院类型，Hospital
+     * @param value 医院的值
+     * @return
+     */
+    @GetMapping("/getHospitalGrade/{hospCode}/{value}")
+    public String getHospitalGrade(@PathVariable("hospCode") String hospCode,
+                                   @PathVariable("value") String value) {
+        String hospitalGrade = dictService.getDictName(hospCode, value);
+        return hospitalGrade;
+    }
+
+    /**
+     * 根据value值查询所在地区
+     * @param value
+     * @return
+     */
+    @GetMapping("/getLocation/{value}")
+    public String getLocation(@PathVariable("value") String value) {
+        return dictService.getDictName(null, value);
+    }
+
+    /**
+     * 比如根据dict_id=Province，查询所有的省份
+     * @param dictCode
+     * @return
+     */
+    @ApiOperation("根据dict_id查询数据字典中的子节点")
+    @GetMapping("/getListByDictCode/{dictCode}")
+    public Result getListByDictCode(@PathVariable("dictCode") String dictCode) {
+        List<Dict> list = dictService.getListByDictId(dictCode);
+        return Result.ok(list);
     }
 }

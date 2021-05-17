@@ -16,4 +16,10 @@ public interface DictService extends IService<Dict> {
 
     // 上传一个excel文件，将这个文件中的数据插入到数据字典中
     void addDictData(MultipartFile file);
+
+    // 根据字段的类型和值value查询字典接口
+    String getDictName(String code, String value);
+
+    // 根据dict_id查询数据字典中的子节点
+    List<Dict> getListByDictId(String dictCode);
 }

@@ -13,6 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpServletResponse;
@@ -93,5 +94,48 @@ public class DictServiceImpl extends ServiceImpl<DictMapper, Dict> implements Di
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    // 根据字段的类型和值value查询字典接口
+    @Override
+    public String getDictName(String code, String value) {
+        Dict dict = null;
+        // 判断code是否为空,为空就是查询省份或其他字典值的，不为空就是查询医院等级
+        if(StringUtils.isEmpty(code)) {
+            // 查询省份
+            QueryWrapper<Dict> wrapper = new QueryWrapper<>();
+            wrapper.eq("value", value);
+            dict = baseMapper.selectOne(wrapper);
+        } else {
+            // 如果不为空就是查询医院等级的
+            // 先根据类型code查询字典类型
+            Dict parentDict = selectParentDict(code);
+            // 在取出父节点的id
+            Long parentId = parentDict.getId();
+            QueryWrapper<Dict> wrapper = new QueryWrapper<>();
+            wrapper.eq("parent_id", parentId);
+            wrapper.eq("value", value);
+
+            dict = baseMapper.selectOne(wrapper);
+        }
+
+        return dict.getName();
+    }
+
+    // 根据dict_id查询数据字典中的子节点
+    @Override
+    public List<Dict> getListByDictId(String dictCode) {
+        // 查询父节点的id
+        Dict dict = selectParentDict(dictCode);
+        // 根据父节点的id，查询所有的子节点
+        List<Dict> dictList = findChildrenData(dict.getId());
+        return dictList;
+    }
+
+    // 根据类型code查询字典类型
+    private Dict selectParentDict(String code) {
+        QueryWrapper<Dict> wrapper = new QueryWrapper<>();
+        wrapper.eq("dict_code", code);
+        return baseMapper.selectOne(wrapper);
     }
 }

@@ -139,8 +139,11 @@ public class ApiController {
      * 查询所有医院，暂时只能显示一个医院
      */
     @PostMapping("/hospital/show")
-    public Result getHospitalAll() {
-        Hospital hospital = hospitalService.getHospitalAll();
+    public Result getHospitalAll(HttpServletRequest request) {
+        // 调用抽取方法进行比较
+        Map<String, Object> resultMap = this.judgeHospitalSign(request);
+
+        Hospital hospital = hospitalService.getHospital(resultMap);
         return Result.ok(hospital);
     }
 

@@ -20,11 +20,13 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Random;
 
+
+/**
+ * 医院管理的接口
+ */
 @Api(tags = "医院管理控制")
 @RestController
 @RequestMapping("/admin/hosp/hospitalSet")
-// 允许跨域
-@CrossOrigin
 public class HospitalSetController {
     @Autowired
     private HospitalSetService hospitalSetService;

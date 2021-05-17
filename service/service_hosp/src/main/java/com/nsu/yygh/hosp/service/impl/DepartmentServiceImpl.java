@@ -48,7 +48,8 @@ public class DepartmentServiceImpl implements DepartmentService {
             department.setUpdateTime(new Date());
             department.setIsDeleted(0);
 
-            departmentRepository.save(department);
+            // departmentRepository.save(department);
+            departmentRepository.insert(department);
         }
     }
 

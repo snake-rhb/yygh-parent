@@ -12,6 +12,9 @@
     <file url="file://$PROJECT_DIR$/service/service_cmn" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service_hosp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/service_cmn_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_gateway" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
